@@ -11,8 +11,8 @@ This Android application retrieves and displays characters from the *Rick and Mo
 - Designed using Kotlin and Android Jetpack Compose.
 - Utilizes ViewModels and Flows for managing UI state.
 - Fetches data from the API using Retrofit and Coroutines.
-- Implements clean architecture principles with use cases, ViewModels, and repositories.
-- Uses Dagger Hilt for dependency injection.
+- Implements clean architecture principles with ViewModels, and repositories.
+- Implements manual Dependency Injenction
 
 ## Screenshots
 
