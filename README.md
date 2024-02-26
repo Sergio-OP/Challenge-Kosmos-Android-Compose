@@ -25,5 +25,7 @@ This Android application retrieves and displays characters from the *Rick and Mo
 
 To get started with this project, clone the repository to your local machine. Ensure you have the latest version of Android Studio installed.
 
-```bash
-git clone https://github.com/your-username/rick-and-morty-characters-app.git
+## Acknowledgements
+
+- *Rick and Morty* is a creation of Justin Roiland and Dan Harmon.
+- Data provided by [The Rick and Morty API](https://rickandmortyapi.com/).
